@@ -1,3 +1,3 @@
 # Dan's Stories
 
-* [The Carmel Story](/carmel)
+* [The Carmel Story](carmel)
