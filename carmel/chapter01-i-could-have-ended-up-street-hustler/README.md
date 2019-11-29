@@ -1,4 +1,4 @@
-*The Carmel Story: Redefining Work In The Machine Era*
+*The Carmel Way: Redefining Work In The Machine Era*
 
 ## Chapter 1: I Could Have Ended Up A Street Hustler
 

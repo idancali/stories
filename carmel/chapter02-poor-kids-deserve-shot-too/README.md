@@ -1,4 +1,4 @@
-*The Carmel Story: Redefining Work In The Machine Era*
+*The Carmel Way: Redefining Work In The Machine Era*
 
 ## Chapter 2: Poor Kids Deserve A Shot Too
 
