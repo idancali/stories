@@ -10,3 +10,4 @@
 * [Chapter 7: Your Mind Is Beautifully Mysterious](chapter07-your-mind-beautifully-mysterious)
 * [Chapter 8: The New Era of Human Innovation Needs You](chapter08-new-era-human-innovation-needs-you)
 * [Chapter 9: The Tech Reskilling Imperative](chapter09-tech-reskilling-imperative)
+* [Chapter 10: A New Educational System](chapter10-new-educational-system)
