@@ -8,3 +8,4 @@
 * [Chapter 5: The Twinkling Of A Dream](chapter05-twinkling-dream)
 * [Chapter 6: The Future Is In Your Hands](chapter06-future-your-hands)
 * [Chapter 7: Your Mind Is Beautifully Mysterious](chapter07-your-mind-beautifully-mysterious)
+* [Chapter 8: The New Era of Human Innovation Needs You](chapter08-new-era-human-innovation-needs-you)
