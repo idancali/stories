@@ -16,7 +16,7 @@ The reason why they set camp there was to sort through the garbage dump several 
 
 My young friend's deepest dream in life, was to be the richest garbage collector of that settlement. I still find myself either weeping or frowning or clinching my fists in anger at the thought of it all. See, as a poor unprivileged person, you can't even dream of the good life. The misery of your situation has robbed you - most of all - of your dignity, and that loss of dignity is no where as visible in one's inability to dream great dreams. I left that place with a heavy heart and to this day, some of us are still looking for ways to solve that particular crisis.
 
-## We Need A New Kind Of Educational Model
+### We Need A New Kind Of Educational Model
 
 Romania is the poorest country in Europe. Statistically, a quarter of Romanians live in poverty and that includes half of all Romanian children. And poverty is relative. Not only is Romania the poorest, but here's the really sad statistic. The at-risk-of-poverty threshold is calculated based on the median income and Romania is the second last in terms of median income. That means the average Romanian earnings puts Romanians second from last in terms of income and in addition to that, a quarter of Romanians are well below that income. This, after half a century of communist oppression that left the country crippled for generations to come, in more ways than one.
 
@@ -30,7 +30,7 @@ Education was never meant to lead to pure academic achievements. Education was a
 
 Romania is the poorest country in Europe but the effects of a sterile educational system are well observed throughout Europe, North America and every continent of this great world of ours. If we are ever to hope for a less impoverished world, we have to redesign our entire global educational system. And the main flaw is its misalignment with real economical needs. If we are to get to the bottom of it all, we need to empower new generations of hungry minds with an education that can not only put food on the table and ensure basic material needs but an education that can contribute true value to existing markets or even create brand new markets. If we can get around to design ourselves such educational structures, we might just be able to be alright after all. And even the poorest of the poor might find themselves in the midst of networks of productivity that pull them out of their poverty and worse of all - misery.
 
-## True Education Must Lead To Job Creation
+### True Education Must Lead To Job Creation
 
 As much as we might want to believe that going to school and getting a high school diploma might help that 15 year old get out of that slum, it's nothing but a pipe dream. It won't work. We live in a world right now where we simply don't care about diplomas anymore as a society - not as much as we did a few decades ago anyways. What we need in the 21st century, are people skilled enough to get the job done, diploma or not. And as much as those Math prodigies might help the national brand get ahead in the world, a medal is not going to solve real customer problems and a diploma is not going to cut it out in the real world. As much as I believe education can save lives and yes - I do believe everyone deserves their shot at a good education - I don't believe that's the end of the story. No, education for the sake of education is not enough. We need to give people a chance at making a living and we need the sort of education that gets them there.
 
@@ -40,7 +40,7 @@ Well, before we answer that question, it's well worth stepping back a bit and re
 
 Analysts predict that roughly a third of US jobs are at risk in the next 15 years, because of these incredible advances in machine intelligence. The UK is approximately in the same boat, as well as most developed countries. Developing economies are even more in trouble. So in addition to fighting poverty, the next decade and beyond, will see us fighting machines as well. At least competing with them for our jobs. We're not talking factory jobs only but every job. Every profession is at risk, including lawyers, accountants, sales people, cooks, even surgeons. If we are to make a future for ourselves, we need the sort of education that truly is job-creating and is effective at doing so. In this new context. In the Machine Era.
 
-## Every Job Will Be A Tech Job
+### Every Job Will Be A Tech Job
 
 Back to our question about the most marketable and in-demand skills. If every profession is at risk because of machines, then perhaps the last profession on that list would have to be the profession that got us in here in the first place - Software Development. As the Machine Era unfolds before our eyes and eats up every single industry, technical skills are going to be more and more in demand. Put it this way, someone has to write the software that runs those machines and someone has to maintain them and communicate with them. That's where Software Development comes in. It's clear that non-technical jobs are disappearing but what's also crystal clear is that tech jobs are booming.
 
@@ -50,7 +50,7 @@ If we are to hope of a human-centered future, where personal dignity is flourish
 
 The challenge is that current Tech Education options are limited to say the least. At best, they are highly unscalable to the massive number of people that will flock to such solutions once they begin to face the reality of the new machine revolution that's upon us. Tech Education has grown from a theory-first educational system. As it stands today, it's not helping us achieve the job-creation goals we need to achieve if we are to transition the global workforce to new employment opportunities. Attending expensive lectures or watching video courses online is not going to cut it. We need to do better if we are to stand a chance at providing a future for ourselves and for our families. We need to improve Tech Education. And we need to do it now.
 
-## Share Your Thoughts
+### Share Your Thoughts
 
 * Do you believe your current job is at risk?
 * How do you see the future of work in the next 15 years?

@@ -22,7 +22,7 @@ I had devised a plan find a local print shop downtown Toronto who would copy any
 
 I felt like a secret spy giving coded messages over my fancy Nokia 3310. If you haven't held a Nokia 3310 in your teenage hands during the 90s, you haven't lived, my privileged millennial friends. Let's say the word "snake" for you means - well - snake probably. For us 90s kids, to this day, "snake" means a brand new world of opportunities. Meaning not that I ended up a snake oil salesmen, although that would've been an option. No, meaning that technology showed me a world beyond my wildest dreams. It's like it opened up my mind to a million "what ifs". More on this a bit later on in this story.
 
-## Raging Against The Educational System
+### Raging Against The Educational System
 
 I'm not saying what I did was pretty or would I ever advocate for anyone to do anything of the sort. But I tell you this. It's absolutely criminal for schools to charge so much for educating young minds. I desperately wanted to learn everything I could about technology. I understood education would keep me sane but I knew that technology was the stuff my future was to be made of. No, I understood that technology was the stuff everyone's future was to be made of. And I wanted to rock at it. But it was expensive. And boring. But mostly expensive. And boring.
 
@@ -32,7 +32,7 @@ First year statistics was amazing. Everyone hated that course but the ones that 
 
 "Alright, alright. I guess I can print another batch. Oh, what I wouldn't do for you guys."
 
-## The Educational System Is Setup To Favor The Priviledged
+### The Educational System Is Setup To Favor The Priviledged
 
 Lying, copying books - which is effectively called stealing, and selling on school property. I did worse things than those. But let's stop right there for now. You get the idea. I never did become a street hustler but it took me years to civilize that hustling beast that was always buried deep inside of me. I felt I could sell anything to anyone, anytime, anywhere. I even sold my "coding services" to other students. I hated school but my code was pretty good. Ok, it was usually so sick that I wanted to simply hug it. My comments were tight, the structure was simply beautiful, it would read like a book. I don't ever remember not getting an A on a coding assignment. Well, I do remember one time. That's a funny story. I might tell you all about it another time. I'd charge about $100 per assignment and I always guaranteed an A. And I always got it for them.
 
@@ -40,7 +40,7 @@ I didn't end up hustling on the streets of Bucharest in the 80s, nor on the stre
 
 That was two decades ago. Since then, I've heard stories of parents going into massive debt just to be able to provide a so-called-good-education for their children. And it's usually those families that come from an unprivileged background. See, if you're rich, you can afford stuff and you can afford textbooks that you'll never open. And you can afford to fail courses several times because - hey, daddy will pay for me to take that course as many times as I need to, before I pass. But if you're not one of those privileged kids who get a brand new car when they graduate grade eleven in high school - true story at my high school in Toronto and at many high schools in first-world countries I'm sure - then you have to hustle your way through education. You just gotta. It's just not setup for you.
 
-## Everyone Deserves An Equal Chance
+### Everyone Deserves An Equal Chance
 
 It's almost as someone, somewhere, sat on a big fancy victorian high chair and said "Yeah, Dan from Romania - nope, not him. The other kid, you know the fat one from that country, yeah - not him either. Oh - John Fitzgerald Smith The Third - yes sir, step right through - here's a life discount for the rest of your life - to everything." I hear if you're white there's some sort of privilege cow somewhere - I dunno where - but I hear that you can just milk that cow and that beautiful white milk is the stuff easy dreams are made off. Well, I'm still looking for that cow and no - actually not anymore. If any of you find it, let me know, maybe I can get me a fresh jug of that white foamy milk.
 
@@ -50,7 +50,7 @@ And I think we all deserve the same chance. Don't get me wrong. I don't advocate
 
 Listen, there's nothing wrong with having money, but if you didn't earn it - I don't respect that. Who am I to disrespect your unearned money? I'm a nobody. But trust you me - no one respects someone who hasn't worked hard for their money. We're just afraid to tell you that most of the time. Well, I'm not afraid anymore. I'm gonna say it and I don't care if you get offended. You need to work. Work hard. And everyone should get a chance at working hard for their money. That's what I call equality of opportunity. Everyone should get their fair shot at working hard to make something of themselves in this life and it all starts with a fair shot at education.
 
-## The Future Of Education Should Be Open To Everyone
+### The Future Of Education Should Be Open To Everyone
 
 The way I envision the future of education is radically different than the present and the past. I see a world where we don't speak of color or race or any of that stuff, but rather of equality of opportunity and of pure competence and hard work. This is what the #CarmelStory is all about. Building an Educational System that's completely out of anyone's reach in terms of controlling it and owning it and dominating it. A system that can't be hacked, tricked or rigged. An incorruptible system. Where poor kids from Romania and poor kids from Africa and hey, poor kids from America and France, and Italy and - I don't know about the Canadians - ok fine - we'll let them in too. Definitely not the Swiss. There's no poor kids there. Alright, fine, we'll let the Swiss in too. A system that welcomes anyone who wants a fair shot at quality education in a technological world that's so far away removed from that Nokia 3310 I was sporting during my campus hustling days.
 
