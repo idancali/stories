@@ -7,4 +7,4 @@
 * [Chapter 4: Is Software Development For Everyone?](chapter04-software-development-everyone)
 * [Chapter 5: The Twinkling Of A Dream](chapter05-twinkling-dream)
 * [Chapter 6: The Future Is In Your Hands](chapter06-future-your-hands)
-
+* [Chapter 7: Your Mind Is Beautifully Mysterious](chapter07-your-mind-beautifully-mysterious)
