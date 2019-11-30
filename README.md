@@ -1,3 +1,4 @@
 # Dan's Stories
 
-* [The Carmel Story](carmel)
+* [The Carmel Way](carmel)
+** Redefining Human Work In The Machine Era**
